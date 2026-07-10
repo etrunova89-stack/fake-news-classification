@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,roc_auc
+TF-IDF + LogReg,0.9951,0.9947,0.995,0.9949,0.9996
+Fine-tuned BERT,0.9997,1.0,0.9994,0.9997,1.0
+TF-IDF + LogReg (no leakage),0.9892,0.9873,0.99,0.9887,0.9989
